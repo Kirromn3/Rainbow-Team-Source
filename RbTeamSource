@@ -1,4 +1,5 @@
 --Please credit me if your gonna give it to someone or use it in a script
+--dont click on the button if red team is locked or  you will get banned when you join arsenal again
 local but = game.Players.LocalPlayer.PlayerGui.GUI.TeamSelection.Buttons["Or"]:Clone()
 while wait() do
 for hue = 0, 1, 1/30 do
